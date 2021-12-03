@@ -2,7 +2,7 @@ As a user, On the front page i would like to see tabs which function
 independently. some of the tabs include;
 
 - On the Website, `title tab` gives name of the website and brief description on
-  the purpose of websSite i.e `Loruki`
+  the purpose of websSSite i.e `Loruki`
 - `Front end` feature gives general details of website which include official.
   for instance Contact contact and how to navigate through.
 

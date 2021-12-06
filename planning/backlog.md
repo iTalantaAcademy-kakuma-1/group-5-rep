@@ -1,5 +1,5 @@
 As a user, On the front page i would like to see tabs which function
-independently. some of the tabs include;
+independently . some of the tabs include;
 
 - On the Website, `title tab` gives name of the website and brief description on
   the purpose of website i.e `Loruki`
